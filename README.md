@@ -85,6 +85,20 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://i.postimg.cc/RCjRzrNx/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Work Experiences</h3>
+
+###
+
+<p align="left">• Excellent Communication <br>  Technology LTD                        2017 <br>• Nigeria Port Authority             2023                        <br>• Samfresh Institutes Of Business <br>  Management                            2024</p>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -96,7 +110,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="150" src="https://i.postimg.cc/pXpd1Yqm/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"  />
 </div>
 
 ###
@@ -104,5 +118,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Pauloshan /count.svg?"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
