@@ -1,120 +1,86 @@
-<h1 align="center">Hello 👋</h1>
-
-###
+<h1 align="center">Hello, I'm Paul Edet Asuquo! 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/190727191?v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/190727191?v=4" alt="Profile Picture"/>
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/paul-asuquo-6a0341342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/paul-asuquo-6a0341342" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@paulasuquo3131" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
   </a>
   <a href="https://x.com/pauloshan0000?t=BXx-jwO4NxAHQqv36zfk2w&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100086574016854&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100086574016854" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/pauloshan00000?igsh=YzljYTk1ODg3Zg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/pauloshan00000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="pauloshan0000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:pauloshan0000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I am a dedicated and skilled professional specializing in **Cybersecurity**, **Network Administration**, and **Data Analysis**. My expertise includes protecting systems from cyber threats, managing efficient networks, and transforming data into actionable business insights.
 
-<p align="left">Am a dedicated skilled professional specialist in cybersecurity, network administration, and data analysis, skilled in protecting systems from threats, managing efficient networks, and transforming data into actionable business insights."<br>Cybersecurity: Protecting systems and data against evolving cyber threats, implementing advanced security measures, and ensuring regulatory compliance. I am proficient in risk assessment, penetration testing, and threat management.<br><br>Network Administration: Managing and maintaining secure, reliable networks, optimizing performance, and troubleshooting complex issues. My hands-on experience with routers, firewalls, and cloud-based solutions ensures seamless connectivity and security.<br><br>Data Analysis: Transforming raw data into meaningful insights to drive smarter decision-making. Skilled in tools like Python, SQL, and Tableau, I can help organizations make data-driven strategies that deliver results.<br><br>With a strong commitment to learning and innovation, I thrive on solving challenges and leveraging technology to achieve goals. Whether safeguarding information, improving network efficiency, or unlocking the power of data, I deliver results that empower businesses to succeed.</p>
+- **Cybersecurity:** Proficient in penetration testing, risk assessment, and threat management to safeguard systems and ensure regulatory compliance.
+- **Network Administration:** Hands-on experience managing routers, firewalls, and cloud-based solutions for optimal performance and security.
+- **Data Analysis:** Skilled in Python, SQL, and Tableau to unlock actionable insights and drive business success.
 
-###
+With a commitment to innovation and problem-solving, I strive to deliver impactful results that empower organizations.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
-
-###
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/RCjRzrNx/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  Work Experiences</h3>
+## 💼 Work Experience
 
-###
+- **Excellent Communication Technology LTD (2017):** Gained foundational experience in technology solutions.
+- **Nigeria Port Authority (2023):** Advanced network management and cybersecurity practices.
+- **Samfresh Institutes of Business Management (2024):** Focused on applying data analysis for business strategies.
 
-<p align="left">• Excellent Communication <br>  Technology LTD                        2017 <br>• Nigeria Port Authority             2023                        <br>• Samfresh Institutes Of Business <br>  Management                            2024</p>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📊 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pauloshan &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pauloshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+  <img src="https://profile-counter.glitch.me/Pauloshan/count.svg?" alt="Profile Counter" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/pXpd1Yqm/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"  />
+  <img height="150" src="https://i.postimg.cc/RCjRzrNx/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="GIF" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pauloshan /count.svg?"  />
-</div>
+## 🚀 Featured Projects
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
+- 🔒 **[Penetration Testing Tools](#):** Scripts and tools for ethical hacking and incident response.
+- 🌐 **[Network Automation](#):
