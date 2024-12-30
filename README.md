@@ -28,11 +28,8 @@
 </div>
 
 ---
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Specialist;Network%20Administrator;Data%20Analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=ff6e96&vCenter=true&pause=1000&size=22" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Specialist;Network%20Administrator;Data%20Analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=ff6e96&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
