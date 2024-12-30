@@ -34,15 +34,15 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Cybersecurity Specialist**, **Network Administrator**, and **Data Analyst**. I focus on protecting systems, optimizing networks, and transforming data into actionable insights.
+Am a dedicated skilled professional specializing in **Cybersecurity**, **Network Administration**, and **Data Analysis**. I focus on protecting systems, optimizing networks, and transforming data into actionable business insights.
 
-- 🛡️ **Cybersecurity:** Penetration testing, risk assessment, and threat management.
-- 🌐 **Network Administration:** Maintaining secure, efficient networks using routers and firewalls.
-- 📊 **Data Analysis:** Data cleaning, analysis, and visualization with Python, SQL, and Tableau.
+- 🛡️ **Cybersecurity:** Proficient in penetration testing, risk assessment, and threat management.
+- 🌐 **Network Administration:** Hands-on experience managing routers, firewalls, and cloud-based solutions.
+- 📊 **Data Analysis:** Skilled in tools like Python, SQL, and Tableau for decision-making.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Language and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -53,15 +53,18 @@ I am a passionate **Cybersecurity Specialist**, **Network Administrator**, and *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
 </p>
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experiences
 
-- **Excellent Communication Technology LTD (2017):** Early experience in technology solutions.
-- **Nigeria Port Authority (2023):** Advanced skills in cybersecurity and network administration.
-- **Samfresh Institutes of Business Management (2024):** Applied data analysis to business strategies.
+<p align="left">
+• **Excellent Communication Technology LTD (2017)**: Early experience in technology solutions. <br>
+• **Nigeria Port Authority (2023)**: Advanced skills in cybersecurity and network administration. <br>
+• **Samfresh Institutes of Business Management (2024)**: Applied data analysis to business strategies. 
+</p>
 
 ---
 
@@ -90,5 +93,9 @@ I am a passionate **Cybersecurity Specialist**, **Network Administrator**, and *
 - 📊 **[Data Analysis Portfolio](https://github.com/Pauloshan/data-analysis-projects):** Insightful visualizations and analyses.
 
 ---
+
+<p align="center">
+  <img height="150" src="https://i.postimg.cc/RCjRzrNx/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" />
+</p>
 
 <p align="center">🌟 Thank you for visiting! 🌟</p>
