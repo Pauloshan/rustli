@@ -28,6 +28,7 @@
 </div>
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Specialist;Network%20Administrator;Data%20Analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=ff6e96&vCenter=true&pause=1000&size=22" />
 </p>
@@ -48,17 +49,24 @@ With a commitment to innovation and problem-solving, I strive to deliver impactf
 
 ## 🛠️ Skills & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
-</div>
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Cybersecurity Tools**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-7A569E?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### **Networking Tools**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### **Data Analysis Tools**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -96,9 +104,10 @@ With a commitment to innovation and problem-solving, I strive to deliver impactf
 
 ## 🚀 Featured Projects
 
-- 🔒 **[Penetration Testing Tools](https://github.com/Pauloshan/penetration-testing-tools):** Scripts and tools for ethical hacking and incident response.
-- 🌐 **[Network Automation](https://github.com/Pauloshan/network-automation-scripts):** Tools for managing and optimizing network configurations.
-- 📊 **[Data Analysis Portfolio](https://github.com/Pauloshan/data-analysis-projects):** Projects showcasing data cleaning, analysis, and visualization.
+- 🔒 **[Penetration Testing Tools](https://github.com/Pauloshan/Pauloshan-portfolio-/tree/main/Penetration%20testing%20tools):** Scripts and tools for ethical hacking and incident response.
+- 🌐 **[Network Automation](https://github.com/Pauloshan/Pauloshan-portfolio-/tree/main/Network%20Automation%20projects):** Tools for managing and optimizing network configurations.
+- 📊 **[Data Analysis Projects](https://github.com/Pauloshan/Pauloshan-portfolio-/tree/main/Data%20Analysis%20projects):** Projects showcasing data cleaning, analysis, and visualization.
+- 🛡️ **[Project Layer Application Web Security Testing](https://github.com/Pauloshan/Pauloshan-portfolio-/tree/main/Project%20Layer%20Application%20Web%20Security%20Testing%20Checklist):** Checklist for web security testing.
 
 ---
 
