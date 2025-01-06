@@ -1,0 +1,5 @@
+---
+- name: Add the Cisco NX-OS banner
+  cisco.nxos.nxos_banner:
+    text: "{{ network_banner }}"
+    banner: "{{ banner_type }}"
