@@ -1,0 +1,5 @@
+---
+- name: Configure Cisco IOS vlans
+  cisco.ios.ios_vlans:
+    state: "{{ vlan_state }}"
+    config: "{{ vlan_config }}"

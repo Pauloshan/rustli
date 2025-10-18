@@ -1,0 +1,4 @@
+- name: Retrieve Cisco ios info
+  cisco.ios.ios_facts:
+    gather_subset: min
+    gather_network_resources: "{{ network_resources }}"

@@ -1,0 +1,10 @@
+---
+- name: Reboot ios device
+  ansible.netcommon.cli_command:
+    command: reload
+    prompt:
+      - Save?
+      - confirm
+    answer:
+      - y
+      - y

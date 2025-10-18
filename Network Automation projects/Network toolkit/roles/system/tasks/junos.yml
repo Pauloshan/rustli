@@ -1,0 +1,6 @@
+- name: Load junos system properties onto device
+  junipernetworks.junos.junos_system:
+    domain_name: "{{ network_domain_name | default(omit, True) }}"
+    domain_search: "{{ network_domain_search | default(omit, True) }}"
+    hostname: "{{ network_hostname | default(omit, True) }}"
+    name_servers: "{{ network_name_servers | default(omit, True) }}"

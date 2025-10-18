@@ -1,0 +1,5 @@
+- name: Fail when no network platform support
+  ansible.builtin.fail:
+    msg:
+      - "Network Platform is unsupported at this time"
+      - "Please refer to https://docs.ansible.com/ansible/latest/network/user_guide/platform_index.html"
